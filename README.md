@@ -20,5 +20,5 @@ Aplicación web dinámica diseñada para modernizar la gestión de una bibliotec
 ## ‍💻 Autor
 **Paulina Andrea Sánchez López**
 Desarrolladora Full Stack Java Trainee
-🔗 [Mi Portafolio Web](https://github.com/TU_USUARIO/portafolio-paulina) *(Recuerda cambiar este link cuando lo subas)*
+🔗 [Mi Portafolio Web](https://github.com/paulyandreaa/Portafolio.git) *(Recuerda cambiar este link cuando lo subas)*
  [Mi LinkedIn](https://www.linkedin.com/in/paulinasanchezlopez-prp)
